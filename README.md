@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **reactnative**
 
-- 👨‍💻 All of my projects are available at [Project Rpositories](https://github.com/Prashant830?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Prashant830?tab=repositories)
 
 - 📫 How to reach me **ps962630@gmail.com**
 
