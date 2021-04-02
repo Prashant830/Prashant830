@@ -1,25 +1,19 @@
 <h1 align="center">Hi 👋, I'm Prashant Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant830&label=Profile%20views&color=0e75b6&style=flat" alt="prashant830" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant830" alt="prashant830" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [The Unique](https://www.famousappbox.online/)
+- 🔭 I’m currently working on [openMF](https://github.com/openMF/mifos-mobile-cn/)
 
 - 🌱 I’m currently learning **reactnative**
 
-- 👨‍💻 All of my projects are available at [https://www.famousappbox.online/](https://www.famousappbox.online/)
-
-- 📝 I regularly write articles on [https://www.famousappbox.online/](https://www.famousappbox.online/)
+- 👨‍💻 All of my projects are available at [Project Rpositories](https://github.com/Prashant830?tab=repositories)
 
 - 📫 How to reach me **ps962630@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1xQsrIUFTs9aRoDCKAMJnWltZeTXwhLQwVqUWuVbe73E/edit?usp=sharing](https://docs.google.com/document/d/1xQsrIUFTs9aRoDCKAMJnWltZeTXwhLQwVqUWuVbe73E/edit?usp=sharing)
+- 📄 Know about my experiences [Prshant Resume](https://drive.google.com/file/d/1LkCL_GgdyN4nFKeh5XSfeQXVOcdlsxfk/view?usp=sharing)
 
-- ⚡ Fun fact **not**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
