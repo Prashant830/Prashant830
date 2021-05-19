@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ps962630@gmail.com**
 
-- 📄 Know about my experiences [Prshant Resume](https://drive.google.com/file/d/1LkCL_GgdyN4nFKeh5XSfeQXVOcdlsxfk/view?usp=sharing)
+- 📄 Know about my experiences [Prashant Resume](https://drive.google.com/file/d/1LkCL_GgdyN4nFKeh5XSfeQXVOcdlsxfk/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
