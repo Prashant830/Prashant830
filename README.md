@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prashant Singh</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Android developer from India. </h3>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [openMF](https://github.com/openMF/mifos-mobile-cn/)
 
-- 🌱 I’m currently learning **reactnative**
+- 🌱 I’m currently learning **Detail_overview_of_Android.**
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Prashant830?tab=repositories)
 
