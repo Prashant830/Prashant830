@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [openMF](https://github.com/openMF/mifos-mobile-cn/)
+- 🔭 I’m currently working on [openMF](https://github.com/openMF/mifos-mobile-cn/ )
 
 - 🌱 I’m currently learning **Detail_overview_of_Android.**
 
