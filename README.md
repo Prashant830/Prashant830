@@ -18,10 +18,6 @@
 <p align="left">
 <a href="https://dev.to/prashant830" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="prashant830" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prashant-singh-a612541a6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prashant-singh-a612541a6" height="30" width="40" /></a>
-<a href="https://fb.com/prashant singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="prashant singh" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_yeager_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr_yeager_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mr yeager" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mr yeager" height="30" width="40" /></a>
-<a href="/https://www.famousappbox.online/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://www.famousappbox.online/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
