@@ -1,29 +1,72 @@
-<h1 align="center">Hi 👋, I'm Prashant Singh. </h1>
-<h3 align="center">A passionate Android developer from India. </h3>
+<h1 align="center">Hi 👋, I'm Prashant Singh</h1>
+<h3 align="center">Android Developer · Open Source Contributor · India</h3>
 
+<br/>
 
+## 👨‍💻 About Me
 
+- 🔭 Currently contributing to [openMF / mifos-mobile-cn](https://github.com/openMF/mifos-mobile-cn)
+- 🌱 Deepening expertise in **advanced Android development** (architecture, performance, Jetpack)
+- 💼 All my projects are available at [github.com/Prashant830](https://github.com/Prashant830?tab=repositories)
+- 📫 Reach me at **ps962630@gmail.com**
+- ⚡ Passionate about building clean, user-friendly mobile experiences
 
-- 🔭 I’m currently working on [openMF](https://github.com/openMF/mifos-mobile-cn/ )
+<br/>
 
-- 🌱 I’m currently learning **Detail_overview_of_Android.**
+## 🤝 Connect With Me
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/Prashant830?tab=repositories)
-
-- 📫 How to reach me **ps962630@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/prashant830" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="prashant830" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prashant-singh-a612541a6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prashant-singh-a612541a6" height="30" width="40" /></a>
+  <a href="https://dev.to/prashant830" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://linkedin.com/in/prashant-singh-a612541a6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ps962630@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<br/>
 
+## 🛠️ Tech Stack
 
+<p align="left">
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40"/>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant830&" alt="prashant830"/></p>
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prashant830&show_icons=true&theme=tokyonight&hide_border=true" alt="Prashant's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant830&theme=tokyonight&hide_border=true" alt="Prashant's GitHub streak" />
+</p>
 
