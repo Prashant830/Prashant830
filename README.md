@@ -63,10 +63,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashant830&show_icons=true&theme=tokyonight&hide_border=true" alt="Prashant's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashant830&show_icons=true&theme=tokyonight&hide_border=true" alt="Prashant's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant830&theme=tokyonight&hide_border=true" alt="Prashant's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Prashant830&theme=tokyonight&hide_border=true" alt="Prashant's GitHub streak" />
 </p>
-
